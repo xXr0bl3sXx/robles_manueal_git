@@ -1,3 +1,6 @@
+# Manual básico de comandos para Git
+
+```bash
 ## Crea una carpeta .git y empieza a rastrear cambios.
 mkdir mi-proyecto
 cd mi-proyecto
